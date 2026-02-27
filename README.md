@@ -1,1 +1,1 @@
-# MyGame---Tic-Tac-Toe
+# MyGame Tic-Tac-Toe
